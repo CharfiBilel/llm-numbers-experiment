@@ -1,0 +1,19 @@
+{
+  "model": "qwen3.5:4b",
+  "n_scenarios": 20,
+  "n_months": 12,
+  "seed": 42,
+  "exp1_sort_wrong_value_%": 100.0,
+  "exp1_sort_wrong_direction_%": 50.0,
+  "A_valid_json_%": 100.0,
+  "A_total_correct_%": 5.0,
+  "A_growth_correct_%": 15.0,
+  "A_direction_correct_%": 80.0,
+  "A_median_total_error_%": 2.139,
+  "A_median_growth_error_pts": 3.18,
+  "A_mean_seconds": 7.3,
+  "B_numbers_correct_by_construction_%": 100.0,
+  "B_reports_blocked_%": 0.0,
+  "B_reports_with_cause_words_%": 25.0,
+  "B_mean_seconds": 2.09
+}

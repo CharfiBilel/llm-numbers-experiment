@@ -1,0 +1,21 @@
+scenario,naive_compares,naive_growth_%,true_growth_%,wrong_value,wrong_direction
+0,Sep vs Oct,-4.39,13.59,True,True
+1,Sep vs Oct,2.41,-6.08,True,True
+2,Sep vs Oct,-2.65,12.07,True,True
+3,Sep vs Oct,-2.38,-10.03,True,False
+4,Sep vs Oct,0.28,9.78,True,False
+5,Sep vs Oct,-1.77,-10.52,True,False
+6,Sep vs Oct,-3.1,11.27,True,True
+7,Sep vs Oct,2.09,-17.74,True,True
+8,Sep vs Oct,-5.38,18.65,True,True
+9,Sep vs Oct,5.47,-6.26,True,True
+10,Sep vs Oct,1.93,2.78,True,False
+11,Sep vs Oct,-0.82,-6.8,True,False
+12,Sep vs Oct,-4.39,13.06,True,True
+13,Sep vs Oct,10.18,-4.16,True,True
+14,Sep vs Oct,-8.53,19.12,True,True
+15,Sep vs Oct,-2.96,-6.33,True,False
+16,Sep vs Oct,5.0,6.87,True,False
+17,Sep vs Oct,-3.01,-9.27,True,False
+18,Sep vs Oct,1.63,9.77,True,False
+19,Sep vs Oct,-3.73,-4.15,True,False
