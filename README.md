@@ -1,5 +1,7 @@
 # Can a Small LLM Be Trusted With Your Numbers?
 
+📖 **Read the full write-up on [Medium](https://medium.com/@charfibilel/can-a-small-llm-be-trusted-with-your-numbers-3f75629532ec)** · ▶️ **Run it on [Kaggle](https://www.kaggle.com/code/bilelcharfi/can-a-small-llm-be-trusted-with-your-numbers)**
+
 A small, reproducible experiment: a 4B local LLM (`qwen3.5:4b` via [Ollama](https://github.com/ollama/ollama-python)) analyses sales data with a **known ground truth**. We compare two designs for an "AI data analyst":
 
 | | Who computes the numbers? | Who writes the text? |
@@ -57,8 +59,8 @@ Change the model, number of scenarios or tolerances in the first cell.
 
 ## Links
 
-- Article (Medium): *link to add after publication*
-- Kaggle notebook: https://www.kaggle.com/code/bilelcharfi/llm-numbers-experiment
+- Article (Medium): https://medium.com/@charfibilel/can-a-small-llm-be-trusted-with-your-numbers-3f75629532ec
+- Kaggle notebook: https://www.kaggle.com/code/bilelcharfi/can-a-small-llm-be-trusted-with-your-numbers
 
 ## Author
 
